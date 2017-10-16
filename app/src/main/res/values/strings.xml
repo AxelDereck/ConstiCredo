@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">ConstiCredo</string>
+    <string name="action_settings">Settings</string>
+	<string name="section_format">Hello World from section: %1$d</string>
+	<string name="section_en_title">English</string>
+	<string name="section_fr_title">French</string>
+	<string name="section_lat_title">Latin</string>
+	<string name="latin">
+Credo in unum Deum, Patrem omnipoténtem, factórem cǽli et terræ, visibílium ómnium et invisibílium.\n\n
+
+Et in unum Dóminum IESUM CHRISTUM, Fílium Dei unigénitum.\n\n
+
+Et ex Patre natum ante ómnia sǽcula.\n\n
+
+Deum de Deo, lumen de lúmine, Deum verum de Deo vero.\n\n
+
+Génitum, non factum, consubstantiálem Patri per quem ómnia facta sunt.\n\n
+
+Qui propter nos hómines et propter nostram salútem descéndit de cǽlis.\n\n
+
+ET INCARNATUS EST DE SPIRITU SANCTO EX MARIA VIRGINE ET HOMO FACTUS EST.\n\n
+
+Crucifíxus étiam pro nobis, sub Póntio Piláto passus, et sepúltus est.\n\n
+
+Et resurréxit tértia die, secúndum Scriptúras.\n\n
+
+Et ascéndit in cǽlum : sedet ad déxteram Patris.\n\n
+
+Et íterum ventúrus est cum glória judicáre vivos et mórtuos cuius regni non erit finis.\n\n
+
+Et in Spíritum Sanctum, Dóminum et vivificántem, qui ex Patre, Filióque procédit.\n\n
+
+Qui cum Patre, et Fílio simul ADORATUR, et conglorificátur : qui locútus est per Prophétas.\n\n
+
+Et unam, sanctam, cathólicam, et apostólicam Ecclésiam.\n\n
+
+Confíteor unum baptísma in remissiónem peccatórum.\n\n
+
+Et expécto resurrectiónem mortuórum,\n\n
+
+Et vitam + ventúri sǽculi. Amen.
+	</string>
+	<string name="french">
+Je crois en un seul Dieu, le Père tout puissant,\n\n
+créateur du ciel et de la terre, de l’univers visible et invisible,\n\n
+Je crois en un seul Seigneur, Jésus Christ,\n\n
+le Fils unique de Dieu, né du Père avant tous les siècles :\n\n
+Il est Dieu, né de Dieu,\n\n
+lumière, née de la lumière,\n\n
+vrai Dieu, né du vrai Dieu\n\n
+Engendré non pas créé,\n\n
+de même nature que le Père ;\n\n
+et par lui tout a été fait.\n\n
+Pour nous les hommes, et pour notre salut,\n\n
+il descendit du ciel;\n\n
+Par l’Esprit Saint, il a pris chair de la Vierge Marie, et s’est fait homme.\n\n
+Crucifié pour nous sous Ponce Pilate,\n\n
+Il souffrit sa passion et fut mis au tombeau.\n\n
+Il ressuscita le troisième jour,\n\n
+conformément aux Ecritures, et il monta au ciel;\n\n
+il est assis à la droite du Père.\n\n
+Il reviendra dans la gloire, pour juger les vivants et les morts\n\n
+et son règne n’aura pas de fin.\n\n
+Je crois en l’Esprit Saint, qui est Seigneur et qui donne la vie;\n\n
+il procède du Père et du Fils.\n\n
+Avec le Père et le Fils, il reçoit même adoration et même gloire;\n\n
+il a parlé par les prophètes.\n\n\n
+
+Je crois en l’Eglise, une, sainte, catholique et apostolique.\n\n
+Je reconnais un seul baptême pour le pardon des péchés.\n\n
+J’attends la résurrection des morts, et la vie du monde à venir.\n\n\n
+
+Amen
+	</string>
+	<string name="english">
+I believe in one God, the Father almighty,\n\n
+maker of heaven and earth, and of all things visible and invisible.\n\n
+And I believe in one Lord, Jesus Christ,\n\n
+the only-begotten Son of God.\n\n
+Born of the Father beyond all ages.\n\n
+God of God, Light of Light,\n\n
+true God of true God.\n\n
+Begotten, not made, of one substance with the Father.\n\n
+By whom all things were made.\n\n
+Who for us men and for our salvation came down from heaven.\n\n
+And he became flesh by the Holy Spirit of the Virgin Mary: and was made man.\n\n
+He was also crucified for us, suffered under Pontius Pilate, and was buried.\n\n
+And on the third day he rose again, according to the Scriptures.\n\n
+He ascended into heaven and sits at the right hand of the Father.\n\n
+He will come again in glory to judge the living and the dead.\n\n
+And of his kingdom there will be no end.\n\n
+And I believe in the Holy Spirit,\n\n
+the Lord and Giver of life,\n\n
+who proceeds from the Father and the Son.\n\n
+Who together with the Father and the Son is adored and glorified,\n\n
+and who spoke through the prophets.\n\n
+And one holy, Catholic, and Apostolic Church.\n\n
+I confess one baptism for the forgiveness of sins.\n\n
+And I await the resurrection of the dead.\n\n
+And the life of the world to come.\n\n\n
+Amen.
+	</string>
+</resources>

@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sbk.catho.consticredo.MainActivity">
+
+    <!--
+    <item
+        android:id="@+id/action_english"
+        android:orderInCategory="97"
+        android:title="@string/section_en_title"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_french"
+        android:orderInCategory="98"
+        android:title="@string/section_fr_title"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_latin"
+        android:orderInCategory="99"
+        android:title="@string/section_lat_title"
+        app:showAsAction="never" />
+        -->
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>
